@@ -42,7 +42,7 @@
     "firebase": "^12.4.0",
     "framer-motion": "^12.23.24",
     "html2canvas": "^1.4.1",
-    "i18next": "^22.5.0",
+    "i18next": "22.5.0",
     "input-otp": "^1.4.2",
     "jspdf": "^3.0.3",
     "lucide-react": "^0.507.0",
@@ -51,7 +51,7 @@
     "react-day-picker": "8.10.1",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.56.2",
-    "react-i18next": "^12.1.0",
+    "react-i18next": "12.1.0",
     "react-qr-code": "^2.0.18",
     "react-resizable-panels": "^3.0.1",
     "react-router-dom": "^7.5.1",
@@ -63,7 +63,6 @@
     "zod": "^3.24.4"
   },
   "scripts": {
-    "preinstall": "npm install --legacy-peer-deps || true",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test"
@@ -94,5 +93,5 @@
     "tailwindcss": "^3.4.17",
     "typescript": "4.9.5"
   },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  "packageManager": "yarn@1.22.22"
 }
